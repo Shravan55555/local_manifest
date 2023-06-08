@@ -5,6 +5,10 @@
 		
  <!-- Device Trees -->
  <project path="device/realme/RMX1901" name="device_realme_RMX1901_T" remote="github" revision="spark" />
+	
+ <!-- Vendor Trees -->
  <project path="vendor/realme/RMX1901" name="vendor_realme_RMX1901_13" remote="github" revision="13" />
+	
+ <!-- Kernel Trees-->
  <project path="kernel/realme/RMX1901" name="kernel_realme_RMX1901" remote="github" revision="x.337_ksu" />
 </manifest> 
