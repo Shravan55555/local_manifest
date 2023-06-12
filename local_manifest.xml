@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-        <remote  name="Shravan5555"
-                fetch="https://github.com/Shravan55555" />
+        <remote  name="ghub"
+                fetch="https://github.com" />
 		
  <!-- Device Trees -->
- <project path="device/realme/RMX1901" name="device_realme_RMX1901_T" remote="github" revision="13" />
+ <project path="device/realme/RMX1901" name="Shravan55555/device_realme_RMX1901_T" remote="github" revision="13" />
 	
  <!-- Vendor Trees -->
- <project path="vendor/realme/RMX1901" name="vendor_realme_RMX1901_13" remote="github" revision="13" />
+ <project path="vendor/realme/RMX1901" name="Shravan55555/vendor_realme_RMX1901_13" remote="github" revision="13" />
 	
  <!-- Kernel Trees-->
- <project path="kernel/realme/RMX1901" name="kernel_realme_RMX1901" remote="github" revision="x.337_ksu" />
+ <project path="kernel/realme/RMX1901" name="Shravan55555/kernel_realme_RMX1901" remote="github" revision="x.337_ksu" />
 </manifest> 
