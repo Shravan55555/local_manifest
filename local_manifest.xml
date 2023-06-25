@@ -13,5 +13,5 @@
  <project path="kernel/realme/RMX1901" name="ashim-anwar/kernel_realme_RMX1901" remote="ghub" revision="x.337-KSU" />
  
 <remove-project name="android_vendor_octavi" />
- <project path="vendor/octavi" name="GhostMaster69-dev/android_vendor_octavi" remote="ghub" revision="13" clone-depth="1" />
+ <project path="vendor/octavi" name="GhostMaster69-dev/android_vendor_octavi" remote="ghub" revision="thirteen" />
 </manifest>
