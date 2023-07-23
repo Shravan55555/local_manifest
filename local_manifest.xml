@@ -4,11 +4,6 @@
                 fetch="https://github.com" />
 		
  <!-- Device Trees -->
- <project path="device/realme/RMX1901" name="Shravan55555/device_realme_RMX1901__" remote="ghub" revision="awaken" />
-	
- <!-- Vendor Trees -->
- <project path="vendor/realme/RMX1901" name="sksayz5/vendor_realme_RMX1901" remote="ghub" revision="13" />
-	
- <!-- Kernel Trees-->
- <project path="kernel/realme/RMX1901" name="ashim-anwar/kernel_realme_RMX1901" remote="ghub" revision="x.337-KSU" />
- </manifest>
+ <project path="device/realme/RMX1901" name="Shravan55555/device_realme_RMXX1901_13" remote="ghub" revision="awaken" />
+
+ </manifest>	
