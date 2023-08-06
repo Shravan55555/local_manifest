@@ -11,8 +11,5 @@
  <project path="vendor/realme/RMX1901" name="shravansayz/vendor_realme_RMX1901" remote="ghub" revision="13" />
 	
  <!-- Kernel Trees-->
- <project path="kernel/realme/RMX1901" name="H1mJT/kernel_realme_RMX1901" remote="ghub" revision="x.337_ksu" />
- 
- <project path="android/build" name="shravansayz/android_build" remote="ghub" revision="thirteen" />	
- <project path="android/vendor/rising" name="shravansayz/android_vendor_rising" remote="ghub" revision="thirteen" />	
+ <project path="kernel/realme/RMX1901" name="H1mJT/kernel_realme_RMX1901" remote="ghub" revision="x.337_ksu" />	
 </manifest>
