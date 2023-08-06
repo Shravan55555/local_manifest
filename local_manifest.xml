@@ -3,6 +3,10 @@
         <remote  name="ghub"
                 fetch="https://github.com" />
 		
+
+ <project path="android/build" name="shravansayz/android_build" remote="ghub" revision="thirteen" />	
+ <project path="android/vendor/rising" name="shravansayz/android_vendor_rising" remote="ghub" revision="thirteen" />	
+	
  <!-- Device Trees -->
  <project path="device/realme/RMX1901" name="Shravan55555/device_realme_RMX1901_13" remote="ghub" revision="Rise" />
 	
