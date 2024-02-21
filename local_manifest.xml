@@ -5,7 +5,7 @@
 		
 
  <!-- Device Trees -->
- <project path="device/realme/RMX1901" name="Shravan55555/device_realme_" remote="ghub" revision="13" />
+ <project path="device/realme/RMX1901" name="shravansayz/android_device_realme_RMX1901_A14" remote="ghub" revision="rising" />
 	
  <!-- Vendor Trees -->
  <project path="vendor/realme/RMX1901" name="shravansayz/android_vendor_RMX1901_A14" remote="ghub" revision="14" />
