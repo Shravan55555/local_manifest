@@ -12,4 +12,7 @@
 	
  <!-- Kernel Trees-->
  <project path="kernel/realme/sdm710" name="shravansayz/android_kernel_realme_sdm710" remote="ghub" revision="14" />	
+
+ <project path="prebuilts/clang/host/linux-x86/proton-clang" name="shravansayz/proton-clang" remote="ghub" revision="master" clone-depth="1" />
+
 </manifest>
