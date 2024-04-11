@@ -5,12 +5,12 @@
 		
 
  <!-- Device Trees -->
- <project path="device/realme/RMX1901" name="Shravan55555/android_device_realme_RMX1901_A14" remote="ghub" revision="droidx" />
+ <project path="device/realme/RMX1901" name="Shravan55555/android_device_realme_RMX1901_A14" remote="ghub" revision="test" />
 	
  <!-- Vendor Trees -->
- <project path="vendor/realme/RMX1901" name="shravansayz/android_vendor_RMX1901_A14" remote="ghub" revision="14" />
+ <project path="vendor/realme/RMX1901" name="shravansayz/vendor_realme_RMX1901" remote="ghub" revision="14" />
 	
  <!-- Kernel Trees-->
- <project path="kernel/realme/sdm710" name="shravansayz/android_kernel_realme_sdm710" remote="ghub" revision="14" />	
+ <project path="kernel/realme/sdm710" name="shravansayz/kernel_realme_sdm710" remote="ghub" revision="14" />	
 
 </manifest>
