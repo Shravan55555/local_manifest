@@ -5,12 +5,12 @@
 		
 
  <!-- Device Trees -->
- <project path="device/realme/RMX1901" name="Shravan55555/device_realme_RMX1901_udc" remote="ghub" revision="pixys" />
+ <project path="device/realme/RMX1901" name="shravansayz/device_realme_RMX1901" remote="ghub" revision="infinity" />
 	
  <!-- Vendor Trees -->
  <project path="vendor/realme/RMX1901" name="shravansayz/vendor_realme_RMX1901" remote="ghub" revision="14" />
 	
  <!-- Kernel Trees-->
- <project path="kernel/realme/sdm710" name="shravansayz/kernel_realme_sdm710" remote="ghub" revision="14-ksu-susfs" />	
+ <project path="kernel/realme/sdm710" name="Shravan55555/msm49" remote="ghub" revision="test" />	
 
 </manifest>
