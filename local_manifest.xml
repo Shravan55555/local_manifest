@@ -6,9 +6,6 @@
 
         <remote name="shravansayz"
                 fetch="https://github.com/shravansayz" />  
-
-        <remote name="hefatss"
-                fetch="https://github.com/hefatss" />
         
    
 <!-- device trees -->
@@ -18,7 +15,7 @@
         <project path="kernel/realme/sdm710" name="android_kernel_realme_RMX1901_RUI2" remote="shravansayz" revision="fourteen-ksu" clone-depth="1" />
 
         
-        <project path="vendor/aosp/signing" name="vendor_sign-priv" remote="hefatss" revision="pos" clone-depth="1" />
+        <project path="vendor/aosp/signing" name="sign" remote="shravansayz" revision="main" clone-depth="1" />
 
 <!-- Extras -->
         <project path="prebuilts/clang/host/linux-x86/clang-proton" name="clang-proton" remote="shravansayz" revision="proton" clone-depth="1" />
