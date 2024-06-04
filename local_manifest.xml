@@ -17,7 +17,7 @@
         <project path="vendor/realme/RMX1901" name="vendor_realme_RMX1901" remote="shravansayz" revision="14" clone-depth="1" />
         <project path="kernel/realme/sdm710" name="android_kernel_realme_RMX1901_RUI2" remote="shravansayz" revision="fourteen-ksu" clone-depth="1" />
 
-        <remove-project name="vendor_aosp_signing" />
+        
         <project path="vendor/aosp/signing" name="vendor_sign-priv" remote="hefatss" revision="pos" clone-depth="1" />
 
 <!-- Extras -->
