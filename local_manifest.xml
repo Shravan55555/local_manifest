@@ -3,7 +3,7 @@
         <remote  name="ghub"
                 fetch="https://github.com" />
 	<remote name="glab"
-		fetch=https://gitlab.com" />
+		fetch="https://gitlab.com" />
 
 <!-- Device Trees --> 
  <project path="device/realme/RMX1901" name="shravansayz/device_realme_RMX1901" remote="ghub" revision="pixel" />
