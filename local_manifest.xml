@@ -2,25 +2,28 @@
 <manifest>
         <remote  name="ghub"
                 fetch="https://github.com" />
-	<remote name="glab"
-		fetch="https://gitlab.com" />
 
 <!-- Device Trees --> 
- <project path="device/realme/RMX1901" name="shravansayz/device_realme_RMX1901" remote="ghub" revision="pixel" />
+ <project path="device/realme/RMX1901" name="shravansayz/device_realme_RMX1901" remote="ghub" revision="pixelpro" />
 	
  <!-- Vendor Trees -->
  <project path="vendor/realme/RMX1901" name="shravansayz/vendor_realme_RMX1901" remote="ghub" revision="14" clone-depth="1" />
 	
  <!-- Kernel Trees-->
- <project path="kernel/realme/sdm710" name="shravansayz/kernel_realme_sdm710" remote="ghub" revision="14" clone-depth="1" />
+ <project path="kernel/realme/sdm710" name="shravansayz/kernel_realme_sdm710" remote="ghub" revision="14-test" clone-depth="1" />
 
- <!-- Proton clang -->
+<!-- Proton clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="ghub" revision="master" clone-depth="1" />
 
+<!-- frameworks_base -->
  <remove-project name="frameworks_base" />
- <project path="frameworks/base" name="shravansayz/frameworks_base_pos" remote="glab" revision="fourteen" clone-depth="1" />
- 
- <remove-project name="vendor_aosp" />
- <project path="vendor/aosp" name="shravansayz/vendor_aosp_pos" remote="glab" revision="fourteen" clone-depth="1" />
+ <project path="frameworks/base" name="shravansayz/frameworks_base_pixelpro" remote="ghub" revision="fourteen-qpr3" clone-depth="1" />
+
+<!-- hardware_interfaces -->
+ <remove-project name="hardware_interfaces" />
+ <project path="hardware/interfaces" name="shravansayz/hardware_interfaces" remote="ghub" revision="fourteen-qpr3" clone-depth="1" />
+	
+ <!-- sign_keys -->
+ <project path="vendor/aosp/signing" name="shravansayz/private_keys" remote="ghub" revision="pixelpro" />
 
 </manifest>
