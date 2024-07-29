@@ -19,7 +19,5 @@
  <remove-project name="frameworks_base" />
  <project path="frameworks/base" name="shravansayz/frameworks_base_pixelstar" remote="ghub" revision="14-qpr3" clone-depth="1" />
 
-<!-- sign_keys -->
- <project path="vendor/pixelstar/signing" name="shravansayz/private_keys" remote="ghub" revision="pixelpro" />
 
 </manifest>
