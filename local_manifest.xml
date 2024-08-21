@@ -18,7 +18,5 @@
  <!-- Viper4android -->
  <project path="packages/apps/ViPER4AndroidFX" name="ij-israfil/packages_apps_ViPER4AndroidFX" remote="ghub" revision="v4a" />
 	
- <remove-project name="android_frameworks_base" />
- <project path="frameworks/base" name="shravansayz/frameworks_base_rise" remote="ghub" revision="fourteen" clone-depth="1" />
  
 </manifest>
