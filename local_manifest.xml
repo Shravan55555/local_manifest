@@ -6,7 +6,7 @@
                 fetch="https://gitlab.com" />
  
  <!-- Device Trees --> 
- <project path="device/realme/RMX1901" name="shravansayz/device_realme_RMX1901_" remote="ghub" revision="axion" />
+ <project path="device/realme/RMX1901" name="shravansayz/device_realme_RMX1901_" remote="ghub" revision="derp" />
 	
  <!-- Vendor Trees -->
  <project path="vendor/realme/RMX1901" name="shravansayz/vendor_realme_RMX1901_" remote="ghub" revision="16" clone-depth="1" />
@@ -16,9 +16,6 @@
 
  <!-- Proton clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="ghub" revision="master" clone-depth="1" />
- 
- <!-- sign_keys -->
- <project path="vendor/lineage-priv" name="shravansayz/private_keys" remote="ghub" revision="rise" />
 
  <!-- android_hardware_qcom_audio -->
  <remove-project name="LineageOS/android_hardware_qcom_audio" />
